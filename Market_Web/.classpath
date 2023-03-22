@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/School/Eclipse/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/eclipseLink">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.datatools.connectivity.jdt.DRIVERLIBRARY/MySQL JDBC Driver"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/School/Eclipse/eclipselink-2.5.2.v20140319-9ad6abd/eclipselink/jlib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/School/apache-tomcat-10.1.5-windows-x64/apache-tomcat-10.1.5/bin/bootstrap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/School/apache-tomcat-10.1.5-windows-x64/apache-tomcat-10.1.5/bin/commons-daemon.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/School/apache-tomcat-10.1.5-windows-x64/apache-tomcat-10.1.5/bin/tomcat-juli.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
